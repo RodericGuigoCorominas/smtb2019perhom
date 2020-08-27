@@ -21,7 +21,7 @@ A topological space can be associated to a point cloud data via methods like the
 
 ### Barcodes and Betti Numbers
 
-The Betti Numbers of a space give essential information about its topology. Persistent homology looks at how these numbers change when changing the parameters in the construction above. Below is a random sampling with noise of points on a two-dimensional torus. Its Betty numbers, $b_0=1$, $b_1=2$ and $b_2=1$ are recovered by the points far from the diagonal, i.e. the longer persisting cycles. 
+The Betti Numbers of a space give essential information about its topology. Persistent homology looks at how these numbers change when changing the parameters in the construction above. Below is a random sampling with noise of points on a two-dimensional torus. Its Betty numbers are recovered by the points far from the diagonal, i.e. the longer persisting cycles. 
 
 <p float="left">
   <img src="Images/toruspts.png" width="200" />
