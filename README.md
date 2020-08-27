@@ -15,7 +15,7 @@ What information can we obtain from the shape of point cloud data? Topological d
 
 A topological space can be associated to a point cloud data via methods like the Vietoris-Rips complex. It can be thought as an approximation of the data by a lower dimensional manifold with (maybe) non-trivial topology
 <p float="left">
-  <img src="Images/cech_complex.png" width="300" />
+  <img src="Images/cech_complex.png" width="400" />
 </p>
 
 
